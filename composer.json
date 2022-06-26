@@ -20,7 +20,7 @@
         {
             "name": "Konstantin A.",
             "email": "kostya.dn@gmail.com"
-        }
+        } 
     ],
     "autoload": {
         "psr-4": {
